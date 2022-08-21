@@ -1,6 +1,4 @@
-##Hi There
-
-<h1 align="center">I'm Priya Singh</h1>
+<h1 align="center">Hi there👋, I'm Priya Singh</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

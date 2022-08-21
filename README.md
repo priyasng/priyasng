@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data structures and Competitive Programming**
 
-- ⚡ Fun fact **I can be your friend you never met!**
+- ⚡ Fun fact **I can be your friend you have never met!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
